@@ -1,0 +1,32 @@
+.parent{
+    background-color: gray;
+    height: 500px;
+    flex-direction: row;
+}
+
+.child1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.child2{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+
+.child3{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+}
+
+.child4{
+    background-color: orangered;
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+}
